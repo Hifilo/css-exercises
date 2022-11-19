@@ -5,5 +5,12 @@
 		// "directory/ignore.md",
 		"**/README.md"
 		// "**/*.md"
+	],
+	"cSpell.words": [
+		"clickme",
+		"Katho",
+		"Mutodo",
+		"noclickme",
+		"Piacquadio"
 	]
 }
