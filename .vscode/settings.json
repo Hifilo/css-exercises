@@ -8,9 +8,21 @@
 	],
 	"cSpell.words": [
 		"clickme",
+		"flaticon",
+		"infogroup",
 		"Katho",
 		"Mutodo",
 		"noclickme",
 		"Piacquadio"
+	],
+	"devdocs-adapter.docsets": [
+		"angular",
+		"bash",
+		"css",
+		"html",
+		"http",
+		"javascript",
+		"tailwindcss",
+		"typescript"
 	]
 }
